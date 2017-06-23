@@ -3,6 +3,7 @@ services: mongodb
 before_install:
   - 'sudo apt-get install ruby-full'
   - 'gem install sass'
+  - 'sudo service mongod start'
 node_js:
   - '7'
 before_script:
