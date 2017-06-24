@@ -34,6 +34,7 @@
     "body-parser": "^1.17.2",
     "ejs": "^2.5.6",
     "express": "^4.15.3",
+    "mongodb": "^2.2.29",
     "mongoose": "^4.10.7"
   },
   "devDependencies": {
