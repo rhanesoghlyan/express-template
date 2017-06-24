@@ -1,0 +1,14 @@
+{
+  "port": "8000",
+  "name": "express-boilerplate-mvc",
+  "front": {
+    "router": "./router",
+    "viewPath": "views/",
+    "assets": "public/"
+  },
+  "db": {
+    "host": "mongodb://localhost",
+    "port": "27017",
+    "name": "express-boilerplate-mvc"
+  }
+}
