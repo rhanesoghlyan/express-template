@@ -1,6 +1,6 @@
 {
   "port": "8000",
-  "name": "express-boilerplate",
+  "name": "express-boilerplate-mvc",
   "front": {
     "router": "./router",
     "viewPath": "views/",
